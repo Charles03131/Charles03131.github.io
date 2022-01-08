@@ -1,0 +1,35 @@
+
+
+div {
+  background-color: white;
+  border: 30px solid black;
+  color: black;
+  width: 100%;
+  font-size:20x;
+  margin:60px
+    margin-left:60px;
+  
+}
+
+p {
+  font-size: 30px;
+    color:black;
+  margin:60px;
+  
+}
+
+body {
+  background-color: #ffe4e1;
+  font-size: 20px;
+    }
+
+.exp-header {
+  background-color: #ffe4c4;
+  font-size: 50x;
+}
+.header {
+  background-color:#ff69b4;
+  font-size:50px;
+  font-type: arial, helvetica,sans-serif;
+}
+
